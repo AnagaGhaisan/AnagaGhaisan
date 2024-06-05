@@ -60,4 +60,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnagaGhaisan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnagaGhaisan&theme=swift&locale=id&date_format=j%20M%5B%20Y%5D&background=45%2CEB5454%2C6940EB)](https://git.io/streak-stats)
