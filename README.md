@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anaga Ghaisan Abhista and I'm a Front-end Developer, from Indoneisa 🇮🇩</h2>
-
+<h1 align="left">Hi 👋, I'm Anaga Ghaisan Abhista</h1>
+<h3 align="left">A passionate frontend developer from Indoneisa 🇮🇩</h3>
 ###
 
 <img align="right" height="150" src="https://i.postimg.cc/dVKMPq1r/1vl-Bg-Kj-XEz1j-Ttsui-H.webp"  />
