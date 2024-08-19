@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anaga Ghaisan Abhista and I'm a Front-end Developer, from Indoneisa</h2>
+<h2 align="left">Hi 👋! My name is Anaga Ghaisan Abhista and I'm a Front-end Developer, from Indoneisa 🇮🇩</h2>
 
 ###
 
@@ -102,8 +102,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/lownag">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lownag&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/y3zc914rsetqr8msj8ju5av2o">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y3zc914rsetqr8msj8ju5av2o&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
