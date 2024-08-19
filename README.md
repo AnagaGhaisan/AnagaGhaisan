@@ -4,6 +4,7 @@
 ###
 
 <img align="right" height="150" src="https://i.postimg.cc/dVKMPq1r/1vl-Bg-Kj-XEz1j-Ttsui-H.webp"  />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anagaghaisan" alt="anagaghaisan" /></a> </p>
 
 ###
 
