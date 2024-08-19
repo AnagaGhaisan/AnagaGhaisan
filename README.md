@@ -7,6 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/anagaghaisan" target="blank"><img src="https://img.shields.io/twitter/follow/anagaghaisan?logo=twitter&style=for-the-badge" alt="anagaghaisan" /></a> </p>
 
+- 🔭 I’m currently Studying on **IDN BOARDING SCHOOL**
+
+- 🌱 I’m currently learning **Dart, Flutter**
+
+- 👨‍💻 All of my projects are available at [https://new-portofolio-inky.vercel.app/](https://new-portofolio-inky.vercel.app/)
+
+- 💬 Ask me about **Laravel, Python, & Tailwind**
+
+- 📫 How to reach me **anaga.ghaisan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NDChiPyRRGZsO-iVvwjrt910v6-GOPfh/view?usp=sharing](https://drive.google.com/file/d/1NDChiPyRRGZsO-iVvwjrt910v6-GOPfh/view?usp=sharing)
+
+- ⚡ Fun fact **F**k Yeah I'm Ready**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anagaghaisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anagaghaisan" height="30" width="40" /></a>
