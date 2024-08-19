@@ -3,13 +3,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/dVKMPq1r/1vl-Bg-Kj-XEz1j-Ttsui-H.webp"  />
+<img align="right" height="250" src="https://i.postimg.cc/dVKMPq1r/1vl-Bg-Kj-XEz1j-Ttsui-H.webp"  />
 
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anagaghaisan&label=Profile%20views&color=0e75b6&style=flat" alt="anagaghaisan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anagaghaisan" alt="anagaghaisan" /></a> </p>
-
 
 ###
 
