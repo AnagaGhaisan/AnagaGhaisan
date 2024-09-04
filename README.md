@@ -131,4 +131,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&" alt="anagaghaisan" /></p>
 
 ###
-![Snake animation](https://raw.githubusercontent.com/AnagaGhaisan/AnagaGhaisan/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://svgshare.com/i/1A1U.svg)
