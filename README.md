@@ -122,7 +122,7 @@
 </div>
 
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true" alt="anagaghaisan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?anagaghaisan=ryo-ma&no-frame=true" alt="anagaghaisan" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagaghaisan&show_icons=true&locale=en&layout=compact" alt="anagaghaisan" /></p>
 
