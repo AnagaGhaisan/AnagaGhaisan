@@ -126,9 +126,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AnagaGhaisan&show_icons=true&theme=gruvbox" alt="anagaghaisan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnagaGhaisan&theme=gruvbox&layout=compact" alt="anagaghaisan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnagaGhaisan&theme=gruvbox&layout=donut" alt="anagaghaisan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&" alt="anagaghaisan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&theme=gruvbox" alt="anagaghaisan" /></p>
 
 ###
 ![Snake animation](https://svgshare.com/i/1A1U.svg)
