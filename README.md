@@ -108,7 +108,7 @@
 
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+<img src=”[https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=y3zc914rsetqr8msj8ju5av2o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)"/>
 </a>
 </p>
 
