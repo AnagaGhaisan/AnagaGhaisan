@@ -131,4 +131,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&theme=gruvbox" alt="anagaghaisan" /></p>
 
 ###
-![Snake animation](https://jmp.sh/s/bausSDtrXHoUpef5McT1)
+![Snake animation](https://svgshare.com/i/1Ajm.svg)
