@@ -124,7 +124,7 @@
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnagaGhaisan&theme=gruvbox" alt="anagaghaisan" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anagaghaisan&show_icons=true&locale=en&layout=compact" alt="anagaghaisan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AnagaGhaisan&show_icons=true&theme=gruvbox" alt="anagaghaisan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anagaghaisan&show_icons=true&locale=en" alt="anagaghaisan" /></p>
 
