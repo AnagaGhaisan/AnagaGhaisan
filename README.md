@@ -107,9 +107,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/y3zc914rsetqr8msj8ju5av2o">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y3zc914rsetqr8msj8ju5av2o&count=5" alt="Spotify recently played"  />
-  </a>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y3zc914rsetqr8msj8ju5av2o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=y3zc914rsetqr8msj8ju5av2o&redirect=true)
 </div>
 
 ###
