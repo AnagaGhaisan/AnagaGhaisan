@@ -114,7 +114,7 @@
 
 ###
 
-<h4 align="left">Hello World!!<br><br>🔭 I’m currently Studying on IDN BOARDING SCHOOL<br><br>🌱 I’m currently learning Dart & Flutter<br><br>💬 Ask me about Laravel, Python, & Tailwind<br><br>📫 How to reach me anaga.ghaisan@gmail.com<br><br>👨‍💻 All of my projects are available at https://new-portofolio-inky.vercel.app/<br><br>📄 Know about my experiences https://drive.google.com/file/d/1NDChiPyRRGZsO-iVvwjrt910v6-GOPfh/view?usp=sharing<br><br>⚡ Fun fact F**k Yeah I'm Ready</h4>
+<h4 align="left">Hello World!!<br><br>🔭 I’m currently Studying on IDN BOARDING SCHOOL<br><br>🌱 I’m currently learning Dart & Flutter<br><br>💬 Ask me about Laravel, Python, & Tailwind<br><br>📫 How to reach me anaga.ghaisan@gmail.com<br><br>👨‍💻 All of my projects are available at https://new-portofolio-inky.vercel.app/<br><br>📄 Know about my experiences https://drive.google.com/file/d/1NDChiPyRRGZsO-iVvwjrt910v6-GOPfh/view?usp=sharing<br></h4>
 
 ###
 
@@ -122,8 +122,7 @@
 </div>
 
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnagaGhaisan&theme=gruvbox" alt="anagaghaisan" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnagaGhaisan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AnagaGhaisan&show_icons=true&theme=gruvbox" alt="anagaghaisan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnagaGhaisan&theme=gruvbox&layout=donut" alt="anagaghaisan" /></p>
