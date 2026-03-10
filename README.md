@@ -35,7 +35,7 @@ A passionate **Frontend Developer** from Indonesia 🇮🇩, currently studying 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&theme=gruvbox&hide_border=true" alt="anagaghaisan" />
+  <img src="https://streak-stats.demolab.com?user=AnagaGhaisan&theme=tokyonight&hide_border=true" alt="AnagaGhaisan's GitHub Stats" />
 </p>
 
 ---
