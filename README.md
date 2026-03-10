@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anaga Ghaisan Abhista
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35"></picture> Hi, I'm Anaga Ghaisan Abhista
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anagaghaisan&label=Profile%20views&color=0e75b6&style=flat-square" alt="anagaghaisan" />
   <a href="https://twitter.com/anagaghaisan" target="blank"><img src="https://img.shields.io/twitter/follow/anagaghaisan?logo=twitter&style=flat-square&color=1DA1F2" alt="anagaghaisan" /></a>
