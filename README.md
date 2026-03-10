@@ -1,133 +1,59 @@
-<h1 align="left">Hi 👋, I'm Anaga Ghaisan Abhista</h1>
-<h3 align="left">A passionate frontend developer from Indoneisa 🇮🇩</h3>
-
-###
-
-<img align="right" height="150" src="https://i.postimg.cc/dVKMPq1r/1vl-Bg-Kj-XEz1j-Ttsui-H.webp"  />
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anagaghaisan&label=Profile%20views&color=0e75b6&style=flat" alt="anagaghaisan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anagaghaisan" target="blank"><img src="https://img.shields.io/twitter/follow/anagaghaisan?logo=twitter&style=for-the-badge" alt="anagaghaisan" /></a> </p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
+# Hi 👋, I'm Anaga Ghaisan Abhista
 <p align="left">
-<a href="https://twitter.com/anagaghaisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anagaghaisan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anaga ghaisan abhista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaga ghaisan abhista" height="30" width="40" /></a>
-<a href="https://fb.com/anaga ghaisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anaga ghaisan" height="30" width="40" /></a>
-<a href="https://instagram.com/anagaghaisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anagaghaisan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anaga ghaisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anaga ghaisan" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anagaghaisan&label=Profile%20views&color=0e75b6&style=flat-square" alt="anagaghaisan" />
+  <a href="https://twitter.com/anagaghaisan" target="blank"><img src="https://img.shields.io/twitter/follow/anagaghaisan?logo=twitter&style=flat-square&color=1DA1F2" alt="anagaghaisan" /></a>
 </p>
 
-###
+### 👨‍💻 About Me
 
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”[https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=y3zc914rsetqr8msj8ju5av2o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)"/>
+A passionate **Frontend Developer** from Indonesia 🇮🇩, currently honing my craft at **IDN Boarding School**. I love building clean, functional, and user-centric web and mobile applications.
+
+- 🔭 **Current Focus:** Developing [AuditFlow System](https://new-portofolio-inky.vercel.app/) & Interning at **Oppo**.
+- 🌱 **Learning:** Deep diving into **Dart & Flutter** for cross-platform excellence.
+- 💬 **Ask me about:** Python, Flask, Tailwind CSS, or troubleshooting Windows performance!
+- 🎓 **Goal:** Pursuing Undergraduate Software Engineering in Taiwan 🇹🇼.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![PS](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![AE](https://img.shields.io/badge/Adobe_After_Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnagaGhaisan&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnagaGhaisan&theme=gruvbox&layout=donut&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&theme=gruvbox&hide_border=true" alt="anagaghaisan" />
+</p>
+
+---
+
+### 🎵 Currently Vibing To
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y3zc914rsetqr8msj8ju5av2o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </a>
 </p>
 
-###
+---
 
-<h4 align="left">Hello World!!<br><br>🔭 I’m currently Studying on IDN BOARDING SCHOOL<br><br>🌱 I’m currently learning Dart & Flutter<br><br>💬 Ask me about Laravel, Python, & Tailwind<br><br>📫 How to reach me anaga.ghaisan@gmail.com<br><br>👨‍💻 All of my projects are available at https://new-portofolio-inky.vercel.app/<br><br>📄 Know about my experiences https://drive.google.com/file/d/1NDChiPyRRGZsO-iVvwjrt910v6-GOPfh/view?usp=sharing<br></h4>
+### 📫 Connect with me
 
-###
+<p align="left">
+<a href="https://linkedin.com/in/anagaghaisanabhista" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anaga.ghaisan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/anagaghaisan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-<div align="left">
-</div>
-
-###
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnagaGhaisan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AnagaGhaisan&show_icons=true&theme=gruvbox" alt="anagaghaisan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnagaGhaisan&theme=gruvbox&layout=donut" alt="anagaghaisan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagaghaisan&theme=gruvbox" alt="anagaghaisan" /></p>
-
-###
 ![Snake animation](https://svgshare.com/i/1Ajm.svg)
