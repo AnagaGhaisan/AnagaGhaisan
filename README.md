@@ -56,5 +56,5 @@ A passionate **Frontend Developer** from Indonesia 🇮🇩, currently studying 
 </p>
 
 <p align="center">
-  <img src="https://svgshare.com/i/1Ajm.svg" alt="Snake animation" />
+  <img src="https://svgshare.com/i/1Ajm.svg](https://github.com/AnagaGhaisan/AnagaGhaisan/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 </p>
