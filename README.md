@@ -65,24 +65,6 @@ A passionate **Frontend Developer** from Indonesia 🇮🇩, currently studying 
 
 ---
 
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AnagaGhaisan/AuditFlow-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnagaGhaisan&repo=AuditFlow-System&theme=tokyonight" /></a>
-  <a href="https://github.com/AnagaGhaisan/NAMA_REPO_KAMU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnagaGhaisan&repo=NAMA_REPO_KAMU&theme=tokyonight" /></a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnagaGhaisan&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🎧 Recently Played on Spotify
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=y3zc914rsetqr8msj8ju5av2o&unique=true" alt="Spotify Recently Played" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
