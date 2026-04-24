@@ -30,9 +30,8 @@ A passionate **Frontend Developer** from Indonesia 🇮🇩, currently studying 
 ### 📊 GitHub Activities
 
 <p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=AnagaGhaisan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://streak-stats.demolab.com/?user=AnagaGhaisan&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnagaGhaisan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=AnagaGhaisan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnagaGhaisan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
