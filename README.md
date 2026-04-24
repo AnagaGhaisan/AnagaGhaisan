@@ -30,21 +30,19 @@ A passionate **Frontend Developer** from Indonesia 🇮🇩, currently studying 
 ### 📊 GitHub Activities
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=AnagaGhaisan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnagaGhaisan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=AnagaGhaisan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnagaGhaisan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnagaGhaisan&bg_color=1a1b27&color=bf91f3&line=6fa4fc&point=3bc8b7&area=true&hide_border=true" width="100%" alt="Anaga's activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnagaGhaisan&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Anaga's activity graph" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnagaGhaisan&theme=tokyonight&hide_border=true" alt="AnagaGhaisan's GitHub Stats" />
 </p>
-
----
 
 ### 📫 Connect with me
 
